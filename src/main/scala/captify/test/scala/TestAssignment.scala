@@ -83,6 +83,17 @@ object TestAssignment {
    *
    * @return Seq of (Sparsity, Try[Approximation]) pairs
    */
-  def approximatesFor(sparsityMin: Int, sparsityMax: Int, extent: Int): Seq[(Int,Try[Double])] = ???
+  def approximatesFor(sparsityMin: Int, sparsityMax: Int, extent: Int): Seq[(Int,Try[Double])] = {
+//    function that tries to compute approximate sparsity
+    def trySparsity(sparsity:Int, extent:Int): Try[Double] = {
+      Try(approximateSparsity(sparsity, extent))
+    }
+//    make range of sparsities and prepare for parallel computing
+    val sparsityRange = Range(sparsityMin,sparsityMax+1).par
+
+//    map sparsityRange and compute tuples
+    sparsityRange.map(sparsity=>(sparsity, trySparsity(sparsity, extent))).seq
+
+  }
 
 }
