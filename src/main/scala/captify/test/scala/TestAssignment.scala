@@ -50,7 +50,12 @@ object TestAssignment {
    * @param iterators to be merged
    * @return Iterator with all elements and ascending sorting retained
    */
-  def mergeIterators(iterators: Seq[Iterator[BigInt]]): Iterator[BigInt] = ???
+  def mergeIterators(iterators: Seq[Iterator[BigInt]]): Iterator[BigInt] = {
+    iterators.fold(Iterator[BigInt]())(_ ++ _)
+    .toStream
+    .sorted
+    .toIterator
+  }
 
   /**
    * How much elements, on average, are included in sparse stream from the general sequence
