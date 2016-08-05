@@ -1,0 +1,70 @@
+[0m[[0minfo[0m] [0mRunning captify.test.scala.SparseIteratorsApp [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/home/roman/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[31merror[0m] [0m(run-main-0) java.lang.OutOfMemoryError: GC overhead limit exceeded[0m
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at scala.math.BigInt.$plus(BigInt.scala:203)
+	at captify.test.scala.SparseIterators$$anon$1.next(SparseIterators.scala:16)
+	at captify.test.scala.SparseIterators$$anon$1.next(SparseIterators.scala:11)
+	at scala.collection.Iterator$$anon$14.hasNext(Iterator.scala:389)
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:350)
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:350)
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:350)
+	at scala.collection.Iterator$class.toStream(Iterator.scala:1143)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1157)
+	at scala.collection.Iterator$$anonfun$toStream$1.apply(Iterator.scala:1143)
+	at scala.collection.Iterator$$anonfun$toStream$1.apply(Iterator.scala:1143)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1085)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1077)
+	at scala.collection.immutable.Stream.length(Stream.scala:284)
+	at scala.collection.SeqLike$class.sorted(SeqLike.scala:608)
+	at scala.collection.AbstractSeq.sorted(Seq.scala:40)
+	at captify.test.scala.TestAssignment$.mergeIterators(TestAssignment.scala:55)
+	at captify.test.scala.SparseIteratorsApp$.runTests(SparseIteratorsApp.scala:21)
+	at captify.test.scala.SparseIteratorsApp$delayedInit$body.apply(SparseIteratorsApp.scala:43)
+	at scala.Function0$class.apply$mcV$sp(Function0.scala:40)
+	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:12)
+	at scala.App$$anonfun$main$1.apply(App.scala:71)
+	at scala.App$$anonfun$main$1.apply(App.scala:71)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at scala.collection.generic.TraversableForwarder$class.foreach(TraversableForwarder.scala:32)
+	at scala.App$class.main(App.scala:71)
+	at captify.test.scala.SparseIteratorsApp$.main(SparseIteratorsApp.scala:8)
+	at captify.test.scala.SparseIteratorsApp.main(SparseIteratorsApp.scala)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+java.lang.RuntimeException: Nonzero exit code: 1
+	at scala.sys.package$.error(package.scala:27)
+	at sbt.BuildCommon$$anonfun$toError$1.apply(Defaults.scala:2081)
+	at sbt.BuildCommon$$anonfun$toError$1.apply(Defaults.scala:2081)
+	at scala.Option.foreach(Option.scala:236)
+	at sbt.BuildCommon$class.toError(Defaults.scala:2081)
+	at sbt.Defaults$.toError(Defaults.scala:39)
+	at sbt.Defaults$$anonfun$runTask$1$$anonfun$apply$38$$anonfun$apply$39.apply(Defaults.scala:750)
+	at sbt.Defaults$$anonfun$runTask$1$$anonfun$apply$38$$anonfun$apply$39.apply(Defaults.scala:748)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[0m[[31merror[0m] [0m(compile:[31mrun[0m) Nonzero exit code: 1[0m

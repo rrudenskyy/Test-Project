@@ -1,0 +1,299 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators$$anon$1.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators$$anonfun$iteratorSparse$1.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators$$anonfun$iteratorSparse$2.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators$.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIteratorsApp$.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIteratorsApp$delayedInit$body.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIteratorsApp.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$$anonfun$approximatesFor$1.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$$anonfun$captify$test$scala$TestAssignment$$trySparsity$1$1.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$$anonfun$mergeIterators$1$$anonfun$apply$1.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$$anonfun$mergeIterators$1.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$.class
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment.class
+binary dependencies:
+6 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> /home/roman/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> /home/roman/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /home/roman/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> captify.test.scala.SparseIterators
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> captify.test.scala.SparseIterators$
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> captify.test.scala.SparseIterators$$anon$1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> captify.test.scala.SparseIterators$$anonfun$iteratorSparse$1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> captify.test.scala.SparseIterators$$anonfun$iteratorSparse$2
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> captify.test.scala.SparseIteratorsApp
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> captify.test.scala.SparseIteratorsApp$
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> captify.test.scala.SparseIteratorsApp$delayedInit$body
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> captify.test.scala.TestAssignment
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> captify.test.scala.TestAssignment$
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> captify.test.scala.TestAssignment$$anonfun$approximatesFor$1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> captify.test.scala.TestAssignment$$anonfun$captify$test$scala$TestAssignment$$trySparsity$1$1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> captify.test.scala.TestAssignment$$anonfun$mergeIterators$1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> captify.test.scala.TestAssignment$$anonfun$mergeIterators$1$$anonfun$apply$1
+used names:
+168 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> !=
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> $anon
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> %
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> +
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> <byname>
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> <init>
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> ==
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> Any
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> AnyRef
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> BigInt
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> Boolean
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> Function1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> Int
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> Iterator
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> Object
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> Predef
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> SparseIterators
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> Unit
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> apply
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> bitCount
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> captify
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> filter
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> int2bigInt
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> iteratorFromOne
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> math
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> nextVal
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> nextVal_=
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> num
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> package
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> require
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> result
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> scala
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> sparsity
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> test
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> +
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> -
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> <init>
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> <repeated>
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> A
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Any
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> App
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> BigInt
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Double
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Int
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Iterator
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Long
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Nothing
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Object
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Predef
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Runtime
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Seq
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> SparseIterators
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> SparseIteratorsApp
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> String
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> StringContext
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> System
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> TestAssignment
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Try
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Tuple2
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> Unit
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> apply
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> approximateExtent
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> approximatesFinishedAt
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> approximatesFor
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> approximatesMillis
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> approximatesRes
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> approximatesStartedAt
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> availableProcessors
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> captify
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> collection
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> cores
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> currentTimeMillis
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> getRuntime
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> iteratorSparse
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> iterators
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> java
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> lang
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> mergeFinishedAt
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> mergeIterators
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> mergeMillis
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> mergeStartedAt
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> mergedIterator
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> mkString
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> numbers
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> package
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> println
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> runTests
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> s
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> sampleAfter
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> sampleAfterNum
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> scala
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> sparsityMax
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> sparsityMin
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> test
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> util
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> +
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> ++
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> -
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> /
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> <byname>
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> <init>
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> <repeated>
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> A
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> A1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Any
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> AnyRef
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> B
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> BigInt
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> CanBuildFrom
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> CanCombineFrom
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Coll
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Double
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Function1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Function2
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> GenTraversableOnce
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Int
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Iterator
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Nothing
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Object
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Ordering
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> ParRange
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> ParSeq
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Range
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> S
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Seq
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> SparseIterators
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Stream
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> T
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> T1
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> T2
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> TestAssignment
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> That
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Try
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> Tuple2
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> after
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> apply
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> approximateSparsity
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> canBuildFrom
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> captify
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> drop
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> extent
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> fold
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> immutable
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> iterator
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> iteratorSparse
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> iterators
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> map
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> math
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> next
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> package
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> par
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> position
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> sampleSize
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> scala
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> seq
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> sorted
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> sparsity
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> sparsityMax
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> sparsityMin
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> sparsityRange
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> take
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> test
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> toDouble
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> toIterator
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> toStream
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> trySparsity
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> util
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> valueAt
+product stamps:
+14 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators$$anon$1.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators$$anonfun$iteratorSparse$1.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators$$anonfun$iteratorSparse$2.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators$.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIterators.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIteratorsApp$.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIteratorsApp$delayedInit$body.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/SparseIteratorsApp.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$$anonfun$approximatesFor$1.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$$anonfun$captify$test$scala$TestAssignment$$trySparsity$1$1.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$$anonfun$mergeIterators$1$$anonfun$apply$1.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$$anonfun$mergeIterators$1.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment$.class -> lastModified(1470408482000)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/target/scala-2.10/classes/captify/test/scala/TestAssignment.class -> lastModified(1470408482000)
+source stamps:
+3 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> hash(9e45fdd94a14d95085fcb77afb0d9a05493f6851)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> hash(9a4b521d3fcbb1e1b5218abb93fff9fef916a7d3)
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> hash(a1dbeadefd0edbfec704dfd1ade64fb58eef0521)
+binary stamps:
+2 items
+/home/roman/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1469287639000)
+class names:
+2 items
+/home/roman/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.math.Ordering
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwajKMZAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwnUIDVnQABm5vdGlmeXNxAH4ADAkEwfZ0AAR3YWl0c3EAfgAMOLharXQADSRhc0luc3RhbmNlT2ZzcQB+AAz0Uv9ZdAAGZXF1YWxzc3EAfgAMMwDtbHQADGFzSW5zdGFuY2VPZnNxAH4ADMyoBOR0AAxzeW5jaHJvbml6ZWRzcQB+AAxyMJp2dAANJGlzSW5zdGFuY2VPZnNxAH4ADNrDhUF0AA9pdGVyYXRvckZyb21PbmVzcQB+AAwtMFoidAAPU3BhcnNlSXRlcmF0b3Jzc3EAfgAMrdlHv3QACW5vdGlmeUFsbHNxAH4ADCh1t1p0AAxpc0luc3RhbmNlT2ZzcQB+AAy6v5oSdAAOaXRlcmF0b3JTcGFyc2VzcQB+AAwQzQ1jdAACPT1zcQB+AAzVGFcxdAAFY2xvbmVzcQB+AAyXtLZbdAAIdG9TdHJpbmdzcQB+AAxUm4fGdAACIT1zcQB+AAxOAf1odAAIZ2V0Q2xhc3NzcQB+AAzbLgMwdAACbmVzcQB+AAyS8Ab6dAAYaXRlcmF0b3JTcGFyc2UkZGVmYXVsdCQxc3EAfgAMHvj4bXQAAmVxc3EAfgAMJtrCwHQAAiMjc3EAfgAMj2WX/HQACGZpbmFsaXplc3EAfgAMnzanPHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAImNhcHRpZnkudGVzdC5zY2FsYS5TcGFyc2VJdGVyYXRvcnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADGNhcHRpZnkudGVzdHNxAH4Ai3QAB2NhcHRpZnlzcQB+AIt0ABJjYXB0aWZ5LnRlc3Quc2NhbGFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVZbLLf2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWS9ob21lL3JvbWFuL0RvY3VtZW50cy9Xb3JrX1Byb2ovSW5ub3ZlY3MvVGVzdC9jYXB0aXRlc3QtaGFuZG91dC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUnkX92UoU2VCF/Ld6+w2aBUk/aFE=
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYn8Q3wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmAeFdXQABm5vdGlmeXNxAH4ADMjse6h0AAR3YWl0c3EAfgAMwUSVJnQADSRhc0luc3RhbmNlT2ZzcQB+AAznGcj0dAAGZXF1YWxzc3EAfgAM8XHbunQADGFzSW5zdGFuY2VPZnNxAH4ADK1G4pF0AA5leGVjdXRpb25TdGFydHNxAH4ADEbxSC50AAxzeW5jaHJvbml6ZWRzcQB+AAyYRSWjdAANJGlzSW5zdGFuY2VPZnNxAH4ADE9JXzV0AARtYWluc3EAfgAMPzCJDXQACW5vdGlmeUFsbHNxAH4ADJt/hIF0ABJTcGFyc2VJdGVyYXRvcnNBcHBzcQB+AAw0Rk3PdAAMaXNJbnN0YW5jZU9mc3EAfgAMffYc1HQAAj09c3EAfgAMFzYb/HQABWNsb25lc3EAfgAMGt+NknQABiRpbml0JHNxAH4ADLmrPbN0AAh0b1N0cmluZ3NxAH4ADDpi/Dd0AARhcmdzc3EAfgAM2dBlA3QAAiE9c3EAfgAMyefiMXQACGdldENsYXNzc3EAfgAMhqNAW3QACHJ1blRlc3Rzc3EAfgAMuZ2OynQAAm5lc3EAfgAMdDLRsnQAAmVxc3EAfgAMh5MuCXQAC2RlbGF5ZWRJbml0c3EAfgAM6kAIs3QAAiMjc3EAfgAMQxGeoHQACGZpbmFsaXplc3EAfgAMFqPxbnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAJWNhcHRpZnkudGVzdC5zY2FsYS5TcGFyc2VJdGVyYXRvcnNBcHB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBoc3EAfgBjdXEAfgBGAAAAAHNxAH4AY3VxAH4ARgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ATHEAfgBVdXEAfgBWAAAAAHNxAH4AWABxAH4AH3VxAH4AWwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF50AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB5WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB4dAAFQXJyYXlxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB4dAAGU3RyaW5nc3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHQABGphdmFzcQB+AIR0AARsYW5ncQB+AIlzcQB+AGN1cQB+AJwAAAAEc3EAfgB4dAADQXBwcQB+AH5zcQB+AHh0AAtEZWxheWVkSW5pdHEAfgB+c3EAfgB4dAAGT2JqZWN0cQB+AKBzcQB+AHh0AANBbnlxAH4AfnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADGNhcHRpZnkudGVzdHNxAH4As3QAB2NhcHRpZnlzcQB+ALN0ABJjYXB0aWZ5LnRlc3Quc2NhbGFzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVZbLLf2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWS9ob21lL3JvbWFuL0RvY3VtZW50cy9Xb3JrX1Byb2ovSW5ub3ZlY3MvVGVzdC9jYXB0aXRlc3QtaGFuZG91dC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUmktSHT/LseG1IYq7k//5/vkWp9M=
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwcWhuzgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwaB+yO3QABm5vdGlmeXNxAH4ADNtSeSJ0AAd2YWx1ZUF0c3EAfgAM1EMR9HQABHdhaXRzcQB+AAynS3+xdAANJGFzSW5zdGFuY2VPZnNxAH4ADJ4zxhJ0AAZlcXVhbHNzcQB+AAxGyBuQdAATYXBwcm94aW1hdGVTcGFyc2l0eXNxAH4ADAfN0Xx0AAxhc0luc3RhbmNlT2ZzcQB+AAwRLEyzdAAMc3luY2hyb25pemVkc3EAfgAMpmcoQ3QADSRpc0luc3RhbmNlT2ZzcQB+AAwH5hRqdAAOVGVzdEFzc2lnbm1lbnRzcQB+AAyFRsgHdAALc2FtcGxlQWZ0ZXJzcQB+AAxiJ9AgdAAJbm90aWZ5QWxsc3EAfgAM0aAq8nQADGlzSW5zdGFuY2VPZnNxAH4ADABNPyl0AAI9PXNxAH4ADH5stbF0AAVjbG9uZXNxAH4ADO9tQ890AAh0b1N0cmluZ3NxAH4ADMRUCZV0AAIhPXNxAH4ADGWNyQR0AA9hcHByb3hpbWF0ZXNGb3JzcQB+AAwdkwdDdAAIZ2V0Q2xhc3NzcQB+AAynE4d3dAACbmVzcQB+AAwAdqOmdAAObWVyZ2VJdGVyYXRvcnNzcQB+AAxNCPeedAACZXFzcQB+AAx75dOWdAACIyNzcQB+AAy1RVQ2dAAIZmluYWxpemVzcQB+AAxQN1xkdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAhY2FwdGlmeS50ZXN0LnNjYWxhLlRlc3RBc3NpZ25tZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AZnNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBlc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAxjYXB0aWZ5LnRlc3RzcQB+AI90AAdjYXB0aWZ5c3EAfgCPdAASY2FwdGlmeS50ZXN0LnNjYWxhc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWWyy39nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFkvaG9tZS9yb21hbi9Eb2N1bWVudHMvV29ya19Qcm9qL0lubm92ZWNzL1Rlc3QvY2FwdGl0ZXN0LWhhbmRvdXQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKHb6t79Dtv+xwTf0a3mT7WO7wUh
+external apis:
+0 items
+source infos:
+3 items
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIterators.scala -> 
+AAAAAAAAAAA=
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/SparseIteratorsApp.scala -> 
+AAAAAAAAAAA=
+/home/roman/Documents/Work_Proj/Innovecs/Test/captitest-handout/src/main/scala/captify/test/scala/TestAssignment.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVlsst/Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9ob21lL3JvbWFuL0RvY3VtZW50cy9Xb3JrX1Byb2ovSW5ub3ZlY3MvVGVzdC9jYXB0aXRlc3QtaGFuZG91dC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==

@@ -21,7 +21,6 @@ object TestAssignment {
    */
   def sampleAfter(iterator: Iterator[BigInt], after: Int, sampleSize: Int): Iterator[BigInt] = {
     iterator.drop(after).take(sampleSize)
-
   }
 
   /**

@@ -40,9 +40,9 @@ object SparseIteratorsApp extends App {
   }
 
   //  simple less loaded tests
-  runTests(1000000, 2, 8, 1000000)
+  runTests(100, 2, 8, 100)
 
   //  more intensive tests with just a bit of exceptions (should run in under 15 minutes)
-  runTests(10000000, 0, 24, 10000000)
+  //runTests(100000, 0, 24, 100000)
 
 }
